@@ -1,1 +1,1 @@
-# jellytv-plugin-repo
+# JellyTV plugin for Jellyfin
