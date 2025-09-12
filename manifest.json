@@ -6,15 +6,15 @@
     "owner": "Wassax7",
     "overview": "Push Jellyfin events to the JellyTV iOS app",
     "description": "Sends Jellyfin events (session/playback/…) to a relay, then APNs.",
-    "imageUrl": "https://raw.githubusercontent.com/Wassax7/jellytv-plugin-repo/main/assets/jellytv-push.png",
+    "imageUrl": "https://raw.githubusercontent.com/Wassax7/jellytv-plugin-repo/assets/jellytv.png",
     "versions": [
       {
         "version": "0.1.0.0",
         "targetAbi": "10.10.0.0",
         "changelog": "Release 0.1.0.0",
-        "timestamp": "2025-09-12 14:38:38",
+        "timestamp": "2025-09-12 14:45:37",
         "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.0.0/JellyTV.PushPlugin_0.1.0.0_jf10.10.0.zip",
-        "checksum": "f8bd5447da92f7834b74a69161e370f3"
+        "checksum": "89b911f25da41abb5928620ec6f956b5"
       }
     ]
   }
