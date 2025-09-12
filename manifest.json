@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Notifications",
+    "guid": "e7f1d9e5-5a0f-4e5e-9e6a-3d932a1c0a11",
+    "name": "JellyTV Push",
+    "owner": "Wassax7",
+    "overview": "Push Jellyfin events to the JellyTV iOS app",
+    "description": "Sends Jellyfin events (session/playback/…) to a relay, then APNs.",
+    "imageUrl": "",
+    "versions": [
+      {
+        "targetAbi": "10.10.0.0",
+        "changelog": "Release ",
+        "timestamp": "2025-09-12 13:57:31",
+        "sourceUrl": "https://github.com//releases/download//",
+        "checksum": "6f715c5740383c3f3ffde4dbc82b3210"
+      }
+    ]
+  }
+]
