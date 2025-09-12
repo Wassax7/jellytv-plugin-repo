@@ -2,10 +2,10 @@
   {
     "category": "Notifications",
     "guid": "e7f1d9e5-5a0f-4e5e-9e6a-3d932a1c0a11",
-    "name": "JellyTV Push",
+    "name": "JellyTV",
     "owner": "Wassax7",
     "overview": "Push Jellyfin events to the JellyTV iOS app",
-    "description": "Sends Jellyfin events (session/playback/…) to a relay, then APNs.",
+    "description": "Sends Jellyfin events (session/playback/…) to your JellyTV.",
     "imageUrl": "https://raw.githubusercontent.com/Wassax7/jellytv-plugin-repo/main/assets/jellytv.png",
     "versions": [
       {
@@ -23,6 +23,14 @@
         "timestamp": "2025-09-12 15:00:33",
         "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.3.0.0/JellyTV.PushPlugin_0.3.0.0_jf10.10.0.zip",
         "checksum": "fd742d0590201128d354ebab948ae8e0"
+      },
+      {
+        "version": "0.1.0.0",
+        "targetAbi": "10.10.0.0",
+        "changelog": "Release 0.1.0.0",
+        "timestamp": "2025-09-12 15:20:37",
+        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.0.0/JellyTV.PushPlugin_0.1.0.0_jf10.10.0.zip",
+        "checksum": "43847745ccd4e50d254e7805a9a6ba6a"
       }
     ]
   }
