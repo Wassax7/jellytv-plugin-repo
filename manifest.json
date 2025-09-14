@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Wassax7/jellytv-plugin-repo/main/assets/jellytv.png",
     "versions": [
       {
+        "version": "0.2.0.0",
+        "targetAbi": "10.10.0.0",
+        "changelog": "Release 0.2.0.0",
+        "timestamp": "2025-09-14 22:28:46",
+        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.2.0.0/JellyTV.PushPlugin_0.2.0.0_jf10.10.0.zip",
+        "checksum": "cbb66ea3dfa2e608be111250cdab251e"
+      },
+      {
         "version": "0.1.0.0",
         "targetAbi": "10.10.0.0",
         "changelog": "Release 0.1.0.0",
