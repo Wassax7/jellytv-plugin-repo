@@ -6,7 +6,7 @@
     "owner": "Wassax7",
     "overview": "Push Jellyfin events to the JellyTV iOS app",
     "description": "Sends Jellyfin events (session/playback/…) to your JellyTV.",
-    "imageUrl": "https://raw.githubusercontent.com/Wassax7/jellytv-plugin-repo/refs/heads/main/assets/jellytv.png",
+    "imageUrl": "https://raw.githubusercontent.com/Wassax7/jellytv-plugin-repo/main/assets/jellytv.png",
     "versions": [
       {
         "version": "0.1.5",
