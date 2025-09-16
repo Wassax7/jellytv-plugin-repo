@@ -27,9 +27,9 @@
         "version": "0.1.0.0",
         "targetAbi": "10.10.0.0",
         "changelog": "Release",
-        "timestamp": "2025-09-16T09:42:38Z",
+        "timestamp": "2025-09-16T09:48:44Z",
         "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.0.0/JellyTV.PushPlugin__jf10.10.0.zip",
-        "checksum": "ec4aad62d91f44d9d410555a46e74d828c5f56afd1bc73b9b9d5430053888c13"
+        "checksum": "bdae9e588b3181fba7b5e9afb7cec1d7010dfa56dcb90e276dfbd8a547ce36f1"
       }
     ]
   }
