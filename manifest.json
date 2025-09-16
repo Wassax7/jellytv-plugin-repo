@@ -1,5 +1,12 @@
 [
   {
+    "guid": "com.wassax7.jellytv.push",
+    "name": "JellyTV Push Plugin",
+    "version": "0.1.0.0",
+    "targetAbi": "10.10.0.0",
+    "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.0.0/JellyTV.PushPlugin_0.1.0.0_jf10.10.0.zip"
+  },
+  {
     "category": "Notifications",
     "guid": "e7f1d9e5-5a0f-4e5e-9e6a-3d932a1c0a11",
     "name": "JellyTV",
@@ -19,18 +26,11 @@
       {
         "version": "0.1.0.0",
         "targetAbi": "10.10.0.0",
-        "changelog": "Release 0.1.0.0",
-        "timestamp": "2025-09-12 15:20:37",
-        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.0.0/JellyTV.PushPlugin_0.1.0.0_jf10.10.0.zip",
-        "checksum": "43847745ccd4e50d254e7805a9a6ba6a"
+        "changelog": "Release",
+        "timestamp": "2025-09-16T09:42:38Z",
+        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.0.0/JellyTV.PushPlugin__jf10.10.0.zip",
+        "checksum": "ec4aad62d91f44d9d410555a46e74d828c5f56afd1bc73b9b9d5430053888c13"
       }
     ]
-  },
-  {
-    "guid": "com.wassax7.jellytv.push",
-    "name": "JellyTV Push Plugin",
-    "version": "0.1.0.0",
-    "targetAbi": "10.10.0.0",
-    "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.0.0/JellyTV.PushPlugin_0.1.0.0_jf10.10.0.zip"
   }
 ]
