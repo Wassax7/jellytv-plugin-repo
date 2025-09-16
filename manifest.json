@@ -6,32 +6,8 @@
     "owner": "Wassax7",
     "overview": "Push Jellyfin events to the JellyTV iOS app",
     "description": "Sends Jellyfin events (session/playback/…) to your JellyTV.",
-    "imageUrl": "https://raw.githubusercontent.com/Wassax7/jellytv-plugin-repo/main/assets/jellytv.png",
+    "imageUrl": "/jellytv.png",
     "versions": [
-      {
-        "version": "1.0.2",
-        "targetAbi": "10.10.0.0",
-        "changelog": "Release",
-        "timestamp": "2025-09-16T13:12:56Z",
-        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v1.0.2/JellyTV-1.0.2.zip",
-        "checksum": "6a726242317b44867612a7ce940bb880"
-      },
-      {
-        "version": "1.0.1.1",
-        "targetAbi": "10.10.0.0",
-        "changelog": "Release",
-        "timestamp": "2025-09-16T12:01:38Z",
-        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v1.0.1.1/JellyTV.PushPlugin_1.0.1.1_jf10.10.0.zip",
-        "checksum": "a93fc1440d0d9ff0968d8fca51c13375"
-      },
-      {
-        "version": "1.0.1",
-        "targetAbi": "10.10.0.0",
-        "changelog": "Release",
-        "timestamp": "2025-09-16T11:45:00Z",
-        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v1.0.1/JellyTV.PushPlugin_1.0.1_jf10.10.0.zip",
-        "checksum": "e4dd036fb29bcb91db6b842b5ef7cbe5"
-      },
       {
         "version": "0.1.3",
         "targetAbi": "10.10.0.0",
