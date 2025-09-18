@@ -15,62 +15,6 @@
         "timestamp": "2025-09-18T07:14:22Z",
         "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v1.9.1/JellyTV-1.9.1.zip",
         "checksum": "6472e089427d4fc96de4e40265f4477b"
-      },
-      {
-        "version": "0.1.9",
-        "targetAbi": "10.10.0.0",
-        "changelog": "Release",
-        "timestamp": "2025-09-16T20:31:26Z",
-        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.9/JellyTV-0.1.9.zip",
-        "checksum": "98f4f2ee1cadbb5c193abfe4f5a912d1"
-      },
-      {
-        "version": "0.1.8.2",
-        "targetAbi": "10.10.0.0",
-        "changelog": "Release",
-        "timestamp": "2025-09-18T07:04:02Z",
-        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.8.2/JellyTV-0.1.8.2.zip",
-        "checksum": "d3f62d2076368d26d8e181c3b5c871cd"
-      },
-      {
-        "version": "0.1.8.1",
-        "targetAbi": "10.10.0.0",
-        "changelog": "Release",
-        "timestamp": "2025-09-16T18:49:57Z",
-        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.8.1/JellyTV-0.1.8.1.zip",
-        "checksum": "5e147765114c2fb92d468998142312ea"
-      },
-      {
-        "version": "0.1.8",
-        "targetAbi": "10.10.0.0",
-        "changelog": "Release",
-        "timestamp": "2025-09-16T15:47:40Z",
-        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.8/JellyTV-0.1.8.zip",
-        "checksum": "5b8d4d588373ca5e2a4e27292ff858bb"
-      },
-      {
-        "version": "0.1.7",
-        "targetAbi": "10.10.0.0",
-        "changelog": "Release",
-        "timestamp": "2025-09-16T15:42:13Z",
-        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.7/JellyTV-0.1.7.zip",
-        "checksum": "a0969ee1d6bdcb7521f07ebc348c010a"
-      },
-      {
-        "version": "0.1.6",
-        "targetAbi": "10.10.0.0",
-        "changelog": "Release",
-        "timestamp": "2025-09-16T15:32:29Z",
-        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.6/JellyTV-0.1.6.zip",
-        "checksum": "b9b8c466e839d9e04e236cf661fafb2c"
-      },
-      {
-        "version": "0.1.5",
-        "targetAbi": "10.10.0.0",
-        "changelog": "Release",
-        "timestamp": "2025-09-16T15:14:32Z",
-        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.5/JellyTV-0.1.5.zip",
-        "checksum": "49ed881f5559fc7f6969320f2ed8238f"
       }
     ]
   }
