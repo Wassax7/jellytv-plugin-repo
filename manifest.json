@@ -17,6 +17,14 @@
         "checksum": "6472e089427d4fc96de4e40265f4477b"
       },
       {
+        "version": "0.1.1",
+        "targetAbi": "10.10.0.0",
+        "changelog": "Release",
+        "timestamp": "2025-09-18T08:44:42Z",
+        "sourceUrl": "https://github.com/Wassax7/jellytv-plugin-repo/releases/download/v0.1.1/JellyTV-0.1.1.zip",
+        "checksum": "50cb3f1a069523a0fc2e691ffcd90855"
+      },
+      {
         "version": "0.1.0",
         "targetAbi": "10.10.0.0",
         "changelog": "Release",
